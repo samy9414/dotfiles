@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bambal.sameer@gmail.com
+	name = sameer bambal
